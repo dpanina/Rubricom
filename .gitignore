@@ -1,0 +1,15 @@
+/venv
+.vscode
+.ipynb_checkpoints
+/jupiter
+/__pycache__
+WB-Presentation.pptx
+/presentation
+/similarity
+/topics
+/df_clust
+/output
+/df
+/input
+/model_base/__pycache__
+/wildberries/__pycache__
