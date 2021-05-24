@@ -1,7 +1,6 @@
 /venv
 .vscode
 .ipynb_checkpoints
-/jupiter
 /__pycache__
 WB-Presentation.pptx
 /presentation
