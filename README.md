@@ -37,12 +37,22 @@
 Центроиды у каждого кластера и по расстоянию от него - сортируются комментарии.
 
 ## Анализ тональности
-
+Предобучение модели на kaggle датасете
 
 # Структура репозитория
+## telegram.py
+Бот с основным алгоритмом
 
+## /wildberries/wildberries/spiders/wildberries.py
+Парсинг
 
-## Команда
+## Rubricom/model_base/model_base.py
+Модель
+
+## StopWords_extension.csv
+Расширенный списко стоп-слов
+
+# Команда
 https://github.com/OlegZubkov
 
 https://github.com/SvetlanaY
