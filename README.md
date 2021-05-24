@@ -35,7 +35,7 @@
 # Структура репозитория
 
 
-## Соаврторы проекта
+## Соавторы проекта
 https://github.com/OlegZubkov
 https://github.com/SvetlanaY
 
