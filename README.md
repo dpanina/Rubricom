@@ -43,16 +43,17 @@
 ## telegram.py
 Бот с основным алгоритмом
 
-## /wildberries/wildberries/spiders/wildberries.py
+## wildberries/wildberries/spiders/wildberries.py
 Парсинг
 
-## Rubricom/model_base/model_base.py
-Модель
+## model_base/model_base.py
+Модель кластеризации и тональности
 
 ## StopWords_extension.csv
 Расширенный списко стоп-слов
 
 # Команда
+
 https://github.com/OlegZubkov
 
 https://github.com/SvetlanaY
