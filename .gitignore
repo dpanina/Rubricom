@@ -12,3 +12,6 @@ WB-Presentation.pptx
 /input
 /model_base/__pycache__
 /wildberries/__pycache__
+.DS_Store
+*/.DS_Store
+*/__pycache__
